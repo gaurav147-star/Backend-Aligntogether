@@ -29,4 +29,15 @@ To use this project:
 2. Ensure you have the necessary authentication tokens for authorized routes.
 3. Use the provided endpoints as described above.
 
+## Screenshot:
+
+![image](https://github.com/gaurav147-star/Backend-Aligntogether/assets/78996081/1f964ea7-d10a-43ff-9239-d290c26874b2)
+
+![image](https://github.com/gaurav147-star/Backend-Aligntogether/assets/78996081/983850af-b167-4f0c-b962-040e24f111a4)
+
+![image](https://github.com/gaurav147-star/Backend-Aligntogether/assets/78996081/b80cd270-3f7d-4622-ae61-da0c82b4c2b0)
+
+![image](https://github.com/gaurav147-star/Backend-Aligntogether/assets/78996081/0f8f9f43-c651-46c3-8b9a-9515ed9aa3c7)
+
+
 
