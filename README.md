@@ -1,6 +1,8 @@
 # Backend Aligntogether
 
-backend deploy Link : https://aligntogether-backend.onrender.com
+Backend deploy Link : https://aligntogether-backend.onrender.com
+
+Postman Collection : https://api.postman.com/collections/18547204-a19f40d2-5696-4b1e-bc17-b8cd09c4b8e4?access_key=PMAT-01HJNF6AERWKK0A2123Q36W93K
 
 ## Features
 
